@@ -1,0 +1,68 @@
+Aka the notes before I find out if any of this worked :P
+
+But before I talk about where I am now, allow me to explain how I got here..
+
+I actually spent the beginning part of the module playing with augmented reality. Of course, my love of Pokemon meant I had been following 
+updates on Pokemon Go well before it came out. Even though it was terrible in terms of game mechanics, I was still interested in the
+technology that made it happen. Of course, the question was how to apply it to my module....
+
+My original thought was to kind of base it off modules 1 and 2. In module 2, I remixed by module 1 raggedy ann doll by having it face the
+totoro doll. So, I thought it would be cool if I could do something similar to that using augmented reality. Something along the lines of 
+using toys as a trigger image in order to make your own raggedy ann tea party sort of thing.
+
+Of course, the obvious problem is you'd have to choose a very specific set of toy or toys as a trigger image (because toys are so varied),
+or make it work for absolutely everything which would kind of defeat the purpose. As such, I started to feel a bit uninspired by taking 
+the augmented reality approach. 
+
+There were also a couple of logistical problems I had to consider. Of course, being end of the term means I don't have very much time to 
+master (or at least attempt to) new software, especially with my laptop being particularly annoying recently. 
+As you'll soon read about from my meshmixer experience, my laptop needs to be cleaned or something (probably have too many steam games on 
+it, oops) because it's slightly dying and not all software is running properly. 
+I had been playing around with unity, but I was facing quite a few issue which was quite tedious/stressful given my time restraints. 
+
+The combination of these issues plus feeling uninspired by my augmented reality concepts in general is what finally pushed me to switch
+to a 3d print instead. 
+
+Of course, 3d Printing is just plain cool. The technology has definitely been hyped up a lot, but so cool that it opens up so many 
+possibilities for... well, basically everything. The fact that we can now take something digital and print it back into reality is slightly
+mind blowing. 
+
+After thinking about it, 3D printing was also more in line with what I wanted to accomplish. I may be a bit old school, but I like the idea
+of having created a physical thing for this project. The most interesting objects to me are those that act as a kind of key to your memory.
+I love souvenirs, because something as simple as like a rock, can take you back to that place at that time with those people. My entire 
+module 3 was exploring how the raggedy ann doll was a key to memories for my family. By bringing a 3d print of raggedy ann into the world,
+it would act as a physical reminder (or evidence to people who arent me) of the raggedy ann doll and what I have done in this course.
+
+Even better, I'd be creating a whole new toy out of the old one, which I think really brings this whole semester "full circle" as they
+say. 
+
+Of course, I'm saying all of this having no idea if itll turn out to be anything that even slightly resembles my raggedy ann doll or
+model. But, really, even if it ends up a melted pile of garbage, one mans trash is another mans treasure. My patched 50 times raggedy 
+ann doll is probably relatively worthless to anyone else, but it means a lot to my family because of the memories associated with it. 
+I guess it'd be fitting if the toy based on it were the same. 
+
+Well now that I've started to reflect, let me change directions completely and talk about the specifics of how I made the 
+model that the print will be of. In case you've forgotten my module 1 model, it was kind of not even close to being able to be printed.
+For one, it was totally hollow and only had one side to it (the doll I scanned was sitting on a stool, so I cut it out for the final
+model). It also had very rough edges, often floating outside the doll, which had to be fixed. I definitely had some work to do. 
+
+Fortunately, I already had the stl version of it from my module 2. After importing it into meshmixer (see step 0 in the photo folder),
+the first thing I did was head to the meshmix tab and add a cylinder to act as a base. Since I knew the original model was sitting on 
+a circular stool, I figured the easiest way to make it stay up would be to have it sit on something similar. I then used the transform
+tool to adjust both the cylinder and the doll to my liking. After moving them together, I combined the two shapes together to make it 
+easier. 
+
+I then had to clean the model and make it able to be printed. I loosely followed this guide by Frederik Bedrich 
+(https://all3dp.com/meshmixer-tutorial/) on how to fix it, but I also kind of played around with the options to see what I liked.
+
+The first order of business was to clean up the floating edges (see, step 1 photo). For this, I used analysis - inspector and adjusted
+the settings to clear most of the excess. 
+
+Next, I went to the edit tab to close cracks. I'm not sure if this actually did anything, but I figured it would probably be a good thing
+to do. 
+
+What definitely was important was to make the model solid (at least, for now). Here is where I had the most difficulty with meshmixer
+crashing/freezing. 
+
+
+
