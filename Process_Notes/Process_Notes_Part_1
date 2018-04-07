@@ -62,7 +62,41 @@ Next, I went to the edit tab to close cracks. I'm not sure if this actually did 
 to do. 
 
 What definitely was important was to make the model solid (at least, for now). Here is where I had the most difficulty with meshmixer
-crashing/freezing. 
+crashing/freezing. I'm not really sure why, but eventually I reloaded enough times and it actually worked. I tried using all 4 solid 
+types. Originally I wanted to use the blocky solid type, but it created a lot of precise edges that would have to be printed perfectly
+or else look terrible. Accurate looked the nicest as a digital model, but again precise details was not what I was going for. Eventually
+I decided on fast and just ran with it.
+
+Next I needed to clean up the solid model again. Although the floating edges were gone, there were still a lot of random edges and one 
+foot looked just weird. I used the sculpt - fallout tools to take away anything that I didn't like, then used the draw brush to fill 
+cracks. Finally, I used the smooth tools in order to make the model simpler. (Result of this can be seen in step 2 photo). I was tempted
+to use the draw tool to re-add the eyes but it always looked weird. I figured it'd be better to paint them back on if I wanted once I 
+got the print back. 
+
+Finally, I had to make the model someone viable to print. The original dimensions were tiny - only a couple mm by a couple mm, so I
+increased the scale (analysis - units/dimensions) to make it a decent size. To save time and money, I followed the tutorials 
+instructions to make the model hollow (edit - hollow). I didn't want to make the walls too thin and risk collapse, so I still left them
+at a pretty solid 3.5 mm. Fingers crossed it works! The tutorial mentioned adding holes to the bottom of your model, however when I 
+clicked the button nothing happened. So hopefully they weren't necessary...
+
+The last thing I had to do was add supports if necessary. I'm not even sure if they will show up at all in the stl file I sent, but since
+meshmixer has an automatic tool for it (analysis-overhangs) I figured I might as well try it. This also crashed several times, but 
+again I managed to get it to work eventually. 
+
+From here, all I had to do was export it and send it to the carleton library! I went in person and they told me I wouldn't get my design
+back until mid next week, but fortunately the projection is now Monday. Therefore, expect the rest of the notes/ module by Tuesday unless
+something goes horribly wrong. Fingers crossed it actually works, but either way I can't wait to see how it turns out.
+
+Until next time!
+
+
+
+
+
+
+
+
+
 
 
 
